@@ -12,3 +12,4 @@ git checkout -b feature-restructure // it will switched new branch.
 merging branch..
 steps. add new file css,logo
 git add .
+git log
