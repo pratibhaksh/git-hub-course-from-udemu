@@ -21,3 +21,5 @@ added section tag only
 
 git add . 
 git commit -m "added section"
+
+push it git reposetry branch
