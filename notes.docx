@@ -1,0 +1,14 @@
+git init
+git add index.html
+git status // check wich file changes or not that called stage
+git commit -m "testing"
+git log
+git branch feature-restructure
+git branch // it will show branch
+git checkout master // it will switched master
+git branch -D feature-restructure // delet branch but it should not current or open .
+git checkout -b feature-restructure // it will switched new branch.
+////////////
+merging branch..
+steps. add new file css,logo
+git add .
