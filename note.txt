@@ -1,0 +1,23 @@
+git merge feature-restructre
+
+git remote **
+ git remote add origin git@github.com:pratibhaksh/git-hub-course-from-udemu.git
+ git branch
+ git push origin master
+  eeror will come so need permision 
+ he authenticity of host 'github.com (20.207.73.82)' can't be established.
+
+git remote set-url origin https://github.com/pratibhaksh/git-hub-course-from-udemu.git
+then
+
+PS C:\Users\KSBALASA\Desktop\LM-Insurence\git-hub> git push origin master
+it will ask passowrd
+
+create new branch 
+
+git checkout -b  feat-section
+
+added section tag only
+
+git add . 
+git commit -m "added section"
